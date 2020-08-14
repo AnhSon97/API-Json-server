@@ -1,0 +1,85 @@
+{
+  "Listcustommer": [
+    {
+      "FullName": "JasonStatham",
+      "Gender": "female",
+      "id": 3,
+      "Address": "123TDH",
+      "Department": "business",
+      "Salary": "500M",
+      "Position": "Null"
+    },
+    {
+      "id": 5,
+      "FullName": "Nguyen Anh Son",
+      "Gender": "male",
+      "Address": "Dien Bien Phu",
+      "Department": "business",
+      "Salary": "30M",
+      "Position": "farmer"
+    },
+    {
+      "id": 1,
+      "FullName": "Nguyen Phuong Thao",
+      "Gender": "Female",
+      "Address": "Dien Bien Phu",
+      "Department": "business",
+      "Salary": "30M",
+      "Position": "farmer"
+    },
+    {
+      "id": 7,
+      "FullName": "Nguyen Anh Son",
+      "Gender": "male",
+      "Address": "Dien Bien Phu",
+      "Department": "business",
+      "Salary": "30M",
+      "Position": "farmer"
+    },
+    {
+      "id": 8,
+      "FullName": "Nguyen Anh Thu",
+      "Gender": "male",
+      "Address": "Dien Bien Phu",
+      "Department": "business",
+      "Salary": "30M",
+      "Position": "farmer"
+    },
+    {
+      "id": 8,
+      "FullName": "doe",
+      "Gender": "male8",
+      "Address": "Dien Bien Phu8",
+      "Department": "business8",
+      "Salary": "30M8",
+      "Position": "farmer8"
+    },
+    {
+      "FullName": "doe123",
+      "Gender": "male8",
+      "Address": "Dien Bien Phu8",
+      "Department": "business8",
+      "Salary": "30M8",
+      "Position": "farmer8",
+      "id": 9
+    },
+    {
+      "FullName": "Jason",
+      "Gender": "male8",
+      "Address": "Dien Bien Phu8",
+      "Department": "business8",
+      "Salary": "30M8",
+      "Position": "farmer8",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "FullName": "doe",
+      "Gender": "male8",
+      "Address": "Dien Bien Phu8",
+      "Department": "business8",
+      "Salary": "30M8",
+      "Position": "farmer8"
+    }
+  ]
+}
